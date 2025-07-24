@@ -55,15 +55,15 @@ Passionate about blockchain technology and committed to building robust decentra
 
 Explore my open-source contributions and educational projects:
 
-1. **[Store Contract](./Public%20Projects/Store)** - E-commerce smart contract with platform fees
-2. **[NFT Marketplace](./Public%20Projects/NFT-Marketplace)** - Full-featured NFT trading platform
+1. **[Store Contract](./Public%20Projects/Store.md)** - E-commerce smart contract with platform fees
+2. **[NFT Marketplace](./Public%20Projects/NFT-Marketplace.md)** - Full-featured NFT trading platform
 
 ### Private Projects
 
 Documentation for production-grade systems I've developed:
 
-1. **[Dywe Futures DEX](./Private%20Projects/Dywe-DEX)** - Advanced perpetual futures trading platform
-2. **[Bettum Prediction Market](./Private%20Projects/Bettum)** - Price prediction betting platform
+1. **[Dywe Futures DEX](./Private%20Projects/Dywe-DEX.md)** - Advanced perpetual futures trading platform
+2. **[Bettum Prediction Market](./Private%20Projects/Bettum.md)** - Price prediction betting platform
 
 ## Freelance Experience
 
